@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test1</string>
+    <string name="Titel">Test DB ROOM</string>
+    <string name="nama_menu">Nama Menu</string>
+    <string name="harga_menu">Harga Menu</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="deskripsi_menu">Deskripsi Menu</string>
+    <string name="simpan">Simpan</string>
+</resources>
